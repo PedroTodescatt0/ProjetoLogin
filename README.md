@@ -1,7 +1,4 @@
 # ProjetoLogin
-Claro! Aqui está um novo exemplo do **README.md**:
-
----
 
 # Projeto de Formulário de Login com JavaScript
 
